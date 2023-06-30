@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720916852960",
+    "project_id": "throwing-zone-scorer",
+    "storage_bucket": "throwing-zone-scorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720916852960:android:83e9b4bc5ab49bbb54a085",
+        "android_client_info": {
+          "package_name": "com.example.throwing_zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720916852960-mh7k4uah0tqrclq518n2p10cptqj5f5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQGE5P2eoH1MdtgkHxx__EvykxyjID5GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720916852960-mh7k4uah0tqrclq518n2p10cptqj5f5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
